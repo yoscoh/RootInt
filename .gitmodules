@@ -1,0 +1,3 @@
+[submodule "ProjB"]
+	path = ProjB
+	url = https://github.com/yoscoh/ProjectB.git
